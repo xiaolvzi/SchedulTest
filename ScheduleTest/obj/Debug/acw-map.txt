@@ -1,0 +1,12 @@
+ScheduleTest.JobSchedulerService, ScheduleTest;com.example.JobSchedulerService
+ScheduleTest.JobSchedulerService, ScheduleTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;com.example.JobSchedulerService
+ScheduleTest.JobSchedulerService;com.example.JobSchedulerService
+com.example.JobSchedulerService;com.example.JobSchedulerService
+ScheduleTest.MainActivity, ScheduleTest;md537e33daf55a1b3e57e3b9dbd9218568d.MainActivity
+ScheduleTest.MainActivity, ScheduleTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md537e33daf55a1b3e57e3b9dbd9218568d.MainActivity
+ScheduleTest.MainActivity;md537e33daf55a1b3e57e3b9dbd9218568d.MainActivity
+scheduletest.MainActivity;md537e33daf55a1b3e57e3b9dbd9218568d.MainActivity
+ScheduleTest.RepeatingAlarm, ScheduleTest;md537e33daf55a1b3e57e3b9dbd9218568d.RepeatingAlarm
+ScheduleTest.RepeatingAlarm, ScheduleTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md537e33daf55a1b3e57e3b9dbd9218568d.RepeatingAlarm
+ScheduleTest.RepeatingAlarm;md537e33daf55a1b3e57e3b9dbd9218568d.RepeatingAlarm
+scheduletest.RepeatingAlarm;md537e33daf55a1b3e57e3b9dbd9218568d.RepeatingAlarm
