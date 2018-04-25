@@ -25,7 +25,6 @@ namespace ScheduleTest
         {
             if (Build.VERSION.SdkInt <= BuildVersionCodes.Kitkat)
             {
-
                 AlarmManager alarmManager = (AlarmManager)GetSystemService(Context.AlarmService);
                 Intent intent = new Intent(this, typeof(RepeatingAlarm));
                 PendingIntent sender = PendingIntent.GetBroadcast(this, 0, intent, 0);
@@ -69,8 +68,7 @@ namespace ScheduleTest
                 }
 
             }
-
-
+            
             return hasBeenScheduled;
         }
 

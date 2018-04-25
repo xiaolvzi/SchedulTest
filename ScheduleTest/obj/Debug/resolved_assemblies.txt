@@ -6,6 +6,16 @@ C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\System.Core.d
 C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\System.dll
 C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\System.Runtime.dll
 C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\System.Xml.dll
+C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\Xamarin.Android.Support.Compat.dll
+C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
 C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\System.Threading.dll
 C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\System.Collections.dll
 C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\System.Collections.Concurrent.dll
