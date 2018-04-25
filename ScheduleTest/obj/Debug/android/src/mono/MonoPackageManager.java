@@ -117,6 +117,7 @@ class MonoPackageManager_Resources {
 		"Xamarin.Android.Support.Fragment.dll",
 		"Xamarin.Android.Support.Media.Compat.dll",
 		"Xamarin.Android.Support.v4.dll",
+		"Xamarin.Firebase.JobDispatcher.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

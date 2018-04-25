@@ -37,7 +37,7 @@ namespace ScheduleTest
              .Extend(wearableExtender);
 
             Notification notification = builder.Build();
-
+            notification.Flags = NotificationFlags.AutoCancel;
             manager.Notify(0, notification);
         }
     }

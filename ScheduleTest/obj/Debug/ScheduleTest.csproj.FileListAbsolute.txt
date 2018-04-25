@@ -57,5 +57,6 @@ C:\VS_WorkSpace\ScheduleTest\ScheduleTest\bin\Debug\Xamarin.Android.Support.v4.d
 C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\ScheduleTest.csproj.CopyComplete
 C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\res\drawable\play.png
 C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\res\drawable\pause.png
+C:\VS_WorkSpace\ScheduleTest\ScheduleTest\bin\Debug\Xamarin.Firebase.JobDispatcher.dll
 C:\VS_WorkSpace\ScheduleTest\ScheduleTest\bin\Debug\ScheduleTest.dll
 C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\linksrc\ScheduleTest.dll.mdb

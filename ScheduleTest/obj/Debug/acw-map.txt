@@ -1,3 +1,7 @@
+ScheduleTest.DemoJob, ScheduleTest;com.example.DemoJob
+ScheduleTest.DemoJob, ScheduleTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;com.example.DemoJob
+ScheduleTest.DemoJob;com.example.DemoJob
+com.example.DemoJob;com.example.DemoJob
 ScheduleTest.JobSchedulerService, ScheduleTest;com.example.JobSchedulerService
 ScheduleTest.JobSchedulerService, ScheduleTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;com.example.JobSchedulerService
 ScheduleTest.JobSchedulerService;com.example.JobSchedulerService

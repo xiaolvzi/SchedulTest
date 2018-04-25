@@ -16,6 +16,7 @@ C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\Xamarin.Andro
 C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\Xamarin.Android.Support.Fragment.dll
 C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\Xamarin.Android.Support.Media.Compat.dll
 C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
+C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\Xamarin.Firebase.JobDispatcher.dll
 C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\System.Threading.dll
 C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\System.Collections.dll
 C:\VS_WorkSpace\ScheduleTest\ScheduleTest\obj\Debug\android\assets\System.Collections.Concurrent.dll
